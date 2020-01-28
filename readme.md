@@ -2,7 +2,7 @@
 This repo contains supporting material for the [CodeMash](http://www.codemash.org/)
  sessions presented by [Jeff McKenzie](https://www.codemash.org/speaker-details/?id=b912632d-9770-4a0c-a028-9ec5c9a2e023) on January 9-10, 2020:
 
-- [Hey, You Got Your TDD in My SQL DB!](https://github.com/mcknz/CodeMash-2020/HeyYouGotYourTDDInMySQLDB/)
+- [Hey, You Got Your TDD In My SQL DB!](https://github.com/mcknz/CodeMash-2020/HeyYouGotYourTDDInMySQLDB)
 
 - [Automating Your Automation: The Care And Feeding of Jenkins](https://github.com/mcknz/CodeMash-2020/JenkinsAutomatingYourAutomation/)
 
