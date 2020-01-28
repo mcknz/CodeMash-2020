@@ -2,9 +2,9 @@
 
 This directory contains slides from the *Hey, You Got Your TDD In My SQL DB* session at [CodeMash 2020](http://www.codemash.org/) by [Jeff McKenzie](http://www.codemash.org/speaker-details/?id=b912632d-9770-4a0c-a028-9ec5c9a2e023) on January 10, 2020.
 
-Please refer to the [sql-tdd](https://github.com/mcknz/sql-tdd) repository for instructions on creating and running the [tSQLt](https://tsqlt.org/) tests as shown in the [presentation](https://github.com/mcknz/CodeMash-2020/HeyYouGotYourTDDInMySQLDB/HeyYouGotYourTDDInMySQLDB_JeffMcKenzie_CodeMash2020_2020-01-10.pdf):
+Please refer to the [sql-tdd](https://github.com/mcknz/sql-tdd) repository for instructions on creating and running the [tSQLt](https://tsqlt.org/) tests as shown in the [presentation](HeyYouGotYourTDDInMySQLDB_JeffMcKenzie_CodeMash2020_2020-01-10.pdf):
 
-[HeyYouGotYourTDDInMySQLDB_JeffMcKenzie_CodeMash2020_2020-01-10.pdf](https://github.com/mcknz/CodeMash-2020/HeyYouGotYourTDDInMySQLDB/HeyYouGotYourTDDInMySQLDB_JeffMcKenzie_CodeMash2020_2020-01-10.pdf)
+[HeyYouGotYourTDDInMySQLDB_JeffMcKenzie_CodeMash2020_2020-01-10.pdf](HeyYouGotYourTDDInMySQLDB_JeffMcKenzie_CodeMash2020_2020-01-10.pdf)
 
 ## CodeMash
 CodeMash is a unique event that educates developers on current practices, methodologies and technology trends in variety of platforms and development languages such as Java, .NET, Ruby and PHP. Held every January at the lush Kalahari Resort in Sandusky, Ohio, attendees will be able to attend a world-class technical conference amid Ohio’s largest indoor waterpark.
