@@ -1,7 +1,7 @@
 # *Automating Your Automation: The Care and Feeding of Jenkins*
 This directory contains slides from the *Automating Your Automation: The Care and Feeding of Jenkins* session at [CodeMash 2020](http://www.codemash.org/) by [Jeff McKenzie](http://www.codemash.org/speaker-details/?id=b912632d-9770-4a0c-a028-9ec5c9a2e023) on January 9, 2020:
 
-[JenkinsAutomatingYourAutomation_JeffMcKenzie_CodeMash2020_2020-01-09.pdf](https://github.com/mcknz/CodeMash-2020/JenkinsAutomatingYourAutomation/JenkinsAutomatingYourAutomation_JeffMcKenzie_CodeMash2020_2020-01-09.pdf)
+[JenkinsAutomatingYourAutomation_JeffMcKenzie_CodeMash2020_2020-01-09.pdf](JenkinsAutomatingYourAutomation_JeffMcKenzie_CodeMash2020_2020-01-09.pdf)
 
 ## CodeMash
 CodeMash is a unique event that educates developers on current practices, methodologies and technology trends in variety of platforms and development languages such as Java, .NET, Ruby and PHP. Held every January at the lush Kalahari Resort in Sandusky, Ohio, attendees will be able to attend a world-class technical conference amid Ohio’s largest indoor waterpark.
